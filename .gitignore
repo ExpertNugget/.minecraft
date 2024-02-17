@@ -1,0 +1,16 @@
+.prettierrc
+emi.json
+options.txt
+rhino.local.properties
+usercache.json
+usernamecache.json
+.vscode/
+XaeroWaypoints/
+shaderpacks/
+saves/
+mods/
+logs/
+local/
+icon.png
+config/
+kubejs/jsconfig.json
